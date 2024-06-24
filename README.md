@@ -1,6 +1,6 @@
 # PI-CESMAC
 
-
+```plaintext
 Inicio
     Constante PRECO_UNITARIO = 8.00
     Constante PRECO_ATACADO = 5.50
